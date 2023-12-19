@@ -25,7 +25,7 @@
 
 
 ### Glad to see you here!  
-I’m Ari, a 24 years old student, currently in third year of Computer Science, I also consider myself a developer I've done some websites, and a few projects involving POO and algorithm. I'm also looking forward to learn Dev-Ops and SQL.
+I’m Ari, a 25 years old student, currently in third year of Computer Science, I also consider myself a developer I've done some websites, and a few projects involving POO and algorithm. I'm also looking forward to learn Dev-Ops and SQL.
   
   
 
